@@ -1,0 +1,27 @@
+.App-header{
+    max-width: 700px;
+    margin: 0 auto;
+    display: block;
+    min-height: 45px;
+    padding: 31px 0 0 0;
+}
+.logo span{
+    font-size: 15px;
+    font-weight: 600;
+    color: #762dbb; 
+}
+.topnav{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 8px 13px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.navbar a:last-child{
+    border: 1px solid #e9e2e2;
+}
